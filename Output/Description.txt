@@ -1,1 +1,1 @@
-The folder contains the outputs of the test dataset along with original and mask images and their comparision.
+The folder contains sample outputs. More outputs can be seen at https://drive.google.com/drive/folders/17j2duHma_S4rQDBuU3SKqwl2nnivbMVL?usp=sharing.
