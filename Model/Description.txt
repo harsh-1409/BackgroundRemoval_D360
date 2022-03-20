@@ -1,1 +1,1 @@
-Contains the trained model.
+The model is available at https://drive.google.com/file/d/100-Qtb2LPxoQpAbZF0DS2bsbNa_DhIFO/view?usp=sharing
