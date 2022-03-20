@@ -1,0 +1,1 @@
+This folder contains the final output, that is images of diamonds without background. 
